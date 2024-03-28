@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Javascript,react, React Native**
 
 - 💬 Ask me about **Html, css ,javascript,react, React Native, c++ , c, java,sql, android , python**
+![giphy](https://github.com/dilantunc/dilantunc/assets/151521377/53e39553-521e-424f-b4a3-487a4ff2c4ba)
 
 - 📫 How to reach me **dilantunc1124@gmail.com**
 
