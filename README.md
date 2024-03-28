@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilan</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
-<img align= "right" alt = "coding " src = "![giphy](https://github.com/dilantunc/dilantunc/assets/151521377/53e39553-521e-424f-b4a3-487a4ff2c4ba)">
+<a align= "right"  src = "![giphy](https://github.com/dilantunc/dilantunc/assets/151521377/53e39553-521e-424f-b4a3-487a4ff2c4ba)">
 
 - 🌱 I’m currently learning **Javascript,react, React Native**
 
