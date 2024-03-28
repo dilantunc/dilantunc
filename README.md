@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilan</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
 <a align = "right" href="https://github.com/dilantunc/dilantunc/assets/151521377/53e39553-521e-424f-b4a3-487a4ff2c4ba" target="_blank">
-  <img  align = "right" width = 200 height = 100 src="https://github.com/dilantunc/dilantunc/assets/151521377/53e39553-521e-424f-b4a3-487a4ff2c4ba" alt="Eğlenceli Gerçek GIF">
+  <img  align = "right" width = 300 height = 300 src="https://github.com/dilantunc/dilantunc/assets/151521377/53e39553-521e-424f-b4a3-487a4ff2c4ba" alt="Eğlenceli Gerçek GIF">
 </a>
 
 - 🌱 I’m currently learning **Javascript,react, React Native**
