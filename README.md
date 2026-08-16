@@ -38,4 +38,3 @@ Expanding into full-stack development with **Node.js** and **Express**.
 
 ---
 
-<p align="center">Visitor Count: <img src="https://komarev.com/ghpvc/?username=dilantunc&color=blue" alt="Profile views" /></p>
