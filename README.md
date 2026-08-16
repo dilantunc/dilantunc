@@ -89,12 +89,19 @@ I'm constantly working on interesting projects. Check out my repositories to see
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilantunc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilantunc&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/dilantunc">
+    <img src="https://github-readme-stats-git-main-dilantunc.vercel.app/api?username=dilantunc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dilantunc">
+    <img src="https://github-readme-stats-git-main-dilantunc.vercel.app/api/top-langs/?username=dilantunc&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
